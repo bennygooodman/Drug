@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "nodemon index.mjs"
+  },
+  "dependencies": {
+    "type": "module",
+    "axios": "^1.5.1",
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.63.0",
+    "nodemon": "^3.0.1"
+  }
+}
